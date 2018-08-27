@@ -1,1 +1,5 @@
 Documentacio
+
+Requerimientos Funcionales 
+
+Requerimientos No Funcionales
